@@ -32,11 +32,11 @@ This repository contains code and analysis for scraping airline reviews from the
 ## Usage
 
 1. **Web Scraping**:
-   - Run the script `scrape_reviews.py` to scrape reviews from the Skytrax website.
+   - Run the script `Airline_Review_Analysis.py` to scrape reviews from the Skytrax website.
    - The scraped data will be saved in the `data/airline_reviews.csv` file.
 
 2. **Data Analysis**:
-   - Run the script `analyze_reviews.py` to perform analysis on the scraped data.
+   - Run the script `Airline_Review_Analysis.py` to perform analysis on the scraped data.
    - The insights will be displayed as visualizations and printed summaries.
 
 3. **PowerPoint Presentation**:
